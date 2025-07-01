@@ -1,9 +1,12 @@
 # DriveMRP: Enhancing Vision-Language Models with Synthetic Motion Data for Motion Risk Prediction
 
+<a href=""><img src='https://img.shields.io/badge/arXiv-DriveMRP-red' alt='Paper PDF'></a>
+<a href="https://xiaomi-research.github.io/drivemrp/"><img src='https://img.shields.io/badge/Project_Page-DriveMRP-green' alt='Project Page'></a>
+
 ## 👥 Authors
-**Zhiyi Hou**<sup>1,2,3,*</sup>, **Enhui Ma**<sup>1,3,*</sup>, **Fang Li**<sup>2,*</sup>, Zhiyi Lai<sup>2</sup>, Kalok Ho<sup>2</sup>, Zhanqian Wu<sup>2</sup>,  
-Lijun Zhou<sup>2</sup>, Long Chen<sup>2</sup>, Chitian Sun<sup>2</sup>, **Haiyang Sun**<sup>2,†</sup>, Bing Wang<sup>2</sup>,  
-Guang Chen<sup>2</sup>, Hangjun Ye<sup>2</sup>, Kaicheng Yu<sup>1,✉</sup>
+**Zhiyi Hou**<sup>1,2,3\*</sup>, **Enhui Ma**<sup>1,2,3\*</sup>, **Fang Li**<sup>2\*</sup>, Zhiyi Lai<sup>2</sup>, Kalok Ho<sup>2</sup>, Zhanqian Wu<sup>2</sup>,  
+Lijun Zhou<sup>2</sup>, Long Chen<sup>2</sup>, Chitian Sun<sup>2</sup>, **Haiyang Sun**<sup>2†</sup>, Bing Wang<sup>2</sup>,  
+Guang Chen<sup>2</sup>, Hangjun Ye<sup>2</sup>, Kaicheng Yu<sup>1✉</sup>
 
 <sup>1</sup>Westlake University, <sup>2</sup>Xiaomi EV, <sup>3</sup>Zhejiang University  
 <small>*Equal contribution between the first three authors. †Project leader. ✉Corresponding author.</small>
